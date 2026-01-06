@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { Building2, Heart, Trophy, Music2, Image, X } from "lucide-react";
+import { Building2, Heart, Trophy, Music2, Image } from "lucide-react";
 import InstagramReels from "./InstagramReels";
-import { GalleryCarousel } from "@/components/ui/gallery-carousel";
+import { ImageAutoSlider } from "@/components/ui/image-auto-slider";
 
 const portfolioCategories = [
   {
@@ -48,18 +48,18 @@ const portfolioCategories = [
 ];
 
 const galleryImages = [
-  "6D5A9982-thumbnail.webp",
-  "DSC00439-thumbnail.webp",
-  "DSC09651-thumbnail.webp",
-  "DSC_7917-thumbnail.webp",
-  "IMG_1861-thumbnail.webp",
-  "IMG_3322-thumbnail.webp",
-  "MHRA3599-thumbnail.webp",
-  "MHRA4176-thumbnail.webp",
-  "MHRA6206-thumbnail.webp",
-  "NMG05427-thumbnail.webp",
-  "Prajakta mali -thumbnail.webp",
-  "Yashraj mukhate-thumbnail.webp"
+  "/optimized/Bts/6D5A9982-medium.webp",
+  "/optimized/Bts/DSC00439-medium.webp",
+  "/optimized/Bts/DSC09651-medium.webp",
+  "/optimized/Bts/DSC_7917-medium.webp",
+  "/optimized/Bts/IMG_1861-medium.webp",
+  "/optimized/Bts/IMG_3322-medium.webp",
+  "/optimized/Bts/MHRA3599-medium.webp",
+  "/optimized/Bts/MHRA4176-medium.webp",
+  "/optimized/Bts/MHRA6206-medium.webp",
+  "/optimized/Bts/NMG05427-medium.webp",
+  "/optimized/Bts/Prajakta mali -medium.webp",
+  "/optimized/Bts/Yashraj mukhate-medium.webp"
 ];
 
 // Shuffle function
@@ -74,7 +74,6 @@ const shuffleArray = <T,>(array: T[]): T[] => {
 
 const PortfolioSection = () => {
   const [shuffledImages, setShuffledImages] = useState<string[]>([]);
-  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   useEffect(() => {
     // Shuffle images on component mount
@@ -145,42 +144,19 @@ const PortfolioSection = () => {
           ))}
         </div>
 
-        {/* Gallery Carousel */}
-        <div className="text-center">
-          <GalleryCarousel
-            images={shuffledImages}
-            onImageClick={(image) => setSelectedImage(image)}
-          />
+        {/* Gallery Auto-Slider */}
+        <ImageAutoSlider
+          images={shuffledImages}
+          title="Gallery & BTS"
+          subtitle="You can feel the energy even in pictures."
+        />
 
-          {/* Instagram Reels Section */}
+        {/* Instagram Reels Section */}
+        <div className="mt-8">
           <InstagramReels />
         </div>
 
-        {/* Image Popup/Lightbox Modal */}
-        {selectedImage && (
-          <div
-            className="fixed inset-0 z-50 flex items-center justify-center bg-black/90 backdrop-blur-sm p-4"
-            onClick={() => setSelectedImage(null)}
-          >
-            <button
-              onClick={() => setSelectedImage(null)}
-              className="absolute top-4 right-4 p-2 rounded-full bg-primary text-primary-foreground hover:bg-primary/80 transition-colors z-10"
-              aria-label="Close"
-            >
-              <X className="w-6 h-6" />
-            </button>
-            <div
-              className="relative max-w-5xl max-h-[90vh] w-full"
-              onClick={(e) => e.stopPropagation()}
-            >
-              <img
-                src={`/optimized/Bts/${selectedImage.replace('-thumbnail', '-large')}`}
-                alt="Gallery image"
-                className="w-full h-full object-contain rounded-2xl"
-              />
-            </div>
-          </div>
-        )}
+
       </div>
     </section>
   );
