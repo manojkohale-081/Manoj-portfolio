@@ -169,6 +169,7 @@ const HeroSection = () => {
                     alt="Emcee Manoj - Professional Anchor and Host"
                     loading="eager"
                     className="w-full h-full object-cover"
+                    style={activeIndex === 1 ? { objectPosition: 'center 20%' } : {}}
                   />
                 </AnimatePresence>
               </div>

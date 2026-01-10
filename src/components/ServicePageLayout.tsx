@@ -21,6 +21,7 @@ interface ServicePageLayoutProps {
     galleryImages: string[];
     color: string;
     testimonials: Testimonial[];
+    objectPosition?: string;
 }
 
 const ServicePageLayout = ({
@@ -31,6 +32,7 @@ const ServicePageLayout = ({
     galleryImages,
     color,
     testimonials,
+    objectPosition,
 }: ServicePageLayoutProps) => {
     useEffect(() => {
         document.documentElement.classList.add("dark");
@@ -90,6 +92,7 @@ const ServicePageLayout = ({
                                 alt={title}
                                 loading="eager"
                                 className="relative w-full h-auto rounded-3xl border-4 border-primary/30 shadow-2xl"
+                                style={objectPosition ? { objectFit: 'cover', objectPosition, height: '600px' } : {}}
                             />
                         </motion.div>
                     </div>

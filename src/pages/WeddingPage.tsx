@@ -10,6 +10,8 @@ const WeddingPage = () => {
             color="from-pink-500/20 to-rose-500/10"
             galleryImages={[
                 "/optimized/Shadi events/Weeding and Sangeet Night-medium.webp",
+                "/optimized/Shadi events/SAMFKJENG488354-medium.webp",
+                "/optimized/Shadi events/SAMFKJENG85349-medium.webp",
             ]}
             testimonials={[
                 {
