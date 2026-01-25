@@ -1,461 +1,692 @@
 [
   {
-    "original": "Bts\\6D5A9982.JPG",
-    "originalSize": "1.12 MB",
+    "original": "Celebs\\6D5A9982.JPG",
+    "originalSize": "716.26 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Bts\\6D5A9982-thumbnail.webp",
-        "size": 10964,
-        "reduction": "99.1%"
+        "path": "optimized\\Celebs\\6D5A9982-thumbnail.webp",
+        "size": 10630,
+        "reduction": "98.6%"
       },
       "medium": {
-        "path": "optimized\\Bts\\6D5A9982-medium.webp",
-        "size": 37074,
-        "reduction": "96.8%"
+        "path": "optimized\\Celebs\\6D5A9982-medium.webp",
+        "size": 33710,
+        "reduction": "95.4%"
       },
       "large": {
-        "path": "optimized\\Bts\\6D5A9982-large.webp",
-        "size": 179392,
-        "reduction": "84.7%"
+        "path": "optimized\\Celebs\\6D5A9982-large.webp",
+        "size": 167298,
+        "reduction": "77.2%"
       }
     }
   },
   {
-    "original": "Bts\\DSC00439.jpg",
-    "originalSize": "2.4 MB",
+    "original": "Celebs\\99FCEC7E-EC93-4A88-B9ED-3B22B914982B.JPG",
+    "originalSize": "285.27 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Bts\\DSC00439-thumbnail.webp",
-        "size": 29044,
-        "reduction": "98.8%"
+        "path": "optimized\\Celebs\\99FCEC7E-EC93-4A88-B9ED-3B22B914982B-thumbnail.webp",
+        "size": 30040,
+        "reduction": "89.7%"
       },
       "medium": {
-        "path": "optimized\\Bts\\DSC00439-medium.webp",
-        "size": 110064,
-        "reduction": "95.6%"
+        "path": "optimized\\Celebs\\99FCEC7E-EC93-4A88-B9ED-3B22B914982B-medium.webp",
+        "size": 99552,
+        "reduction": "65.9%"
       },
       "large": {
-        "path": "optimized\\Bts\\DSC00439-large.webp",
-        "size": 709744,
-        "reduction": "71.8%"
+        "path": "optimized\\Celebs\\99FCEC7E-EC93-4A88-B9ED-3B22B914982B-large.webp",
+        "size": 213490,
+        "reduction": "26.9%"
       }
     }
   },
   {
-    "original": "Bts\\DSC09651.JPG",
-    "originalSize": "2.12 MB",
+    "original": "Celebs\\DSC_7917.JPG",
+    "originalSize": "844.28 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Bts\\DSC09651-thumbnail.webp",
-        "size": 19150,
-        "reduction": "99.1%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\DSC09651-medium.webp",
-        "size": 66282,
-        "reduction": "97.0%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\DSC09651-large.webp",
-        "size": 356070,
-        "reduction": "84.0%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\DSC_7917.JPG",
-    "originalSize": "856.5 KB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\DSC_7917-thumbnail.webp",
-        "size": 21694,
+        "path": "optimized\\Celebs\\DSC_7917-thumbnail.webp",
+        "size": 21744,
         "reduction": "97.5%"
       },
       "medium": {
-        "path": "optimized\\Bts\\DSC_7917-medium.webp",
-        "size": 66818,
-        "reduction": "92.4%"
+        "path": "optimized\\Celebs\\DSC_7917-medium.webp",
+        "size": 66872,
+        "reduction": "92.3%"
       },
       "large": {
-        "path": "optimized\\Bts\\DSC_7917-large.webp",
-        "size": 314332,
+        "path": "optimized\\Celebs\\DSC_7917-large.webp",
+        "size": 309284,
         "reduction": "64.2%"
       }
     }
   },
   {
-    "original": "Bts\\IMG_1861.JPG",
-    "originalSize": "3.26 MB",
+    "original": "Celebs\\IMG_0396_jpg.jpg",
+    "originalSize": "1.82 MB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Bts\\IMG_1861-thumbnail.webp",
-        "size": 29114,
-        "reduction": "99.1%"
+        "path": "optimized\\Celebs\\IMG_0396_jpg-thumbnail.webp",
+        "size": 30656,
+        "reduction": "98.4%"
       },
       "medium": {
-        "path": "optimized\\Bts\\IMG_1861-medium.webp",
-        "size": 127744,
-        "reduction": "96.3%"
+        "path": "optimized\\Celebs\\IMG_0396_jpg-medium.webp",
+        "size": 115738,
+        "reduction": "93.9%"
       },
       "large": {
-        "path": "optimized\\Bts\\IMG_1861-large.webp",
-        "size": 969008,
-        "reduction": "71.6%"
+        "path": "optimized\\Celebs\\IMG_0396_jpg-large.webp",
+        "size": 699524,
+        "reduction": "63.2%"
       }
     }
   },
   {
-    "original": "Bts\\IMG_3322.JPG",
-    "originalSize": "2.17 MB",
+    "original": "Celebs\\Picture48.png",
+    "originalSize": "1.38 MB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Bts\\IMG_3322-thumbnail.webp",
-        "size": 27168,
-        "reduction": "98.8%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\IMG_3322-medium.webp",
-        "size": 94662,
-        "reduction": "95.8%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\IMG_3322-large.webp",
-        "size": 485560,
-        "reduction": "78.7%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\MHRA3599.JPG",
-    "originalSize": "1.86 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\MHRA3599-thumbnail.webp",
-        "size": 21280,
-        "reduction": "98.9%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\MHRA3599-medium.webp",
-        "size": 65326,
-        "reduction": "96.6%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\MHRA3599-large.webp",
-        "size": 295246,
-        "reduction": "84.8%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\MHRA4176.JPG",
-    "originalSize": "2.02 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\MHRA4176-thumbnail.webp",
-        "size": 17838,
-        "reduction": "99.2%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\MHRA4176-medium.webp",
-        "size": 57870,
-        "reduction": "97.3%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\MHRA4176-large.webp",
-        "size": 306974,
-        "reduction": "85.5%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\MHRA6206.JPG",
-    "originalSize": "999.78 KB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\MHRA6206-thumbnail.webp",
-        "size": 31194,
-        "reduction": "97.0%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\MHRA6206-medium.webp",
-        "size": 106058,
-        "reduction": "89.6%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\MHRA6206-large.webp",
-        "size": 450292,
-        "reduction": "56.0%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\NMG05427.JPG",
-    "originalSize": "1.88 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\NMG05427-thumbnail.webp",
-        "size": 19912,
-        "reduction": "99.0%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\NMG05427-medium.webp",
-        "size": 60840,
-        "reduction": "96.9%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\NMG05427-large.webp",
-        "size": 286070,
-        "reduction": "85.5%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\Prajakta mali .JPG",
-    "originalSize": "1.67 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\Prajakta mali -thumbnail.webp",
-        "size": 23974,
-        "reduction": "98.6%"
-      },
-      "medium": {
-        "path": "optimized\\Bts\\Prajakta mali -medium.webp",
-        "size": 75734,
-        "reduction": "95.7%"
-      },
-      "large": {
-        "path": "optimized\\Bts\\Prajakta mali -large.webp",
-        "size": 362718,
-        "reduction": "79.2%"
-      }
-    }
-  },
-  {
-    "original": "Bts\\Yashraj mukhate.JPG",
-    "originalSize": "1.51 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Bts\\Yashraj mukhate-thumbnail.webp",
-        "size": 26428,
+        "path": "optimized\\Celebs\\Picture48-thumbnail.webp",
+        "size": 24916,
         "reduction": "98.3%"
       },
       "medium": {
-        "path": "optimized\\Bts\\Yashraj mukhate-medium.webp",
-        "size": 87846,
-        "reduction": "94.5%"
+        "path": "optimized\\Celebs\\Picture48-medium.webp",
+        "size": 96932,
+        "reduction": "93.3%"
       },
       "large": {
-        "path": "optimized\\Bts\\Yashraj mukhate-large.webp",
-        "size": 547932,
-        "reduction": "65.4%"
+        "path": "optimized\\Celebs\\Picture48-large.webp",
+        "size": 128786,
+        "reduction": "91.1%"
       }
     }
   },
   {
-    "original": "Corporate\\Concert.JPG",
-    "originalSize": "4.02 MB",
+    "original": "Celebs\\Picture49.png",
+    "originalSize": "519.32 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Corporate\\Concert-thumbnail.webp",
-        "size": 8406,
+        "path": "optimized\\Celebs\\Picture49-thumbnail.webp",
+        "size": 26774,
+        "reduction": "95.0%"
+      },
+      "medium": {
+        "path": "optimized\\Celebs\\Picture49-medium.webp",
+        "size": 52374,
+        "reduction": "90.2%"
+      },
+      "large": {
+        "path": "optimized\\Celebs\\Picture49-large.webp",
+        "size": 67152,
+        "reduction": "87.4%"
+      }
+    }
+  },
+  {
+    "original": "Celebs\\Prajakta mali .JPG",
+    "originalSize": "1.67 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Celebs\\Prajakta mali -thumbnail.webp",
+        "size": 23300,
+        "reduction": "98.7%"
+      },
+      "medium": {
+        "path": "optimized\\Celebs\\Prajakta mali -medium.webp",
+        "size": 75136,
+        "reduction": "95.7%"
+      },
+      "large": {
+        "path": "optimized\\Celebs\\Prajakta mali -large.webp",
+        "size": 360156,
+        "reduction": "79.5%"
+      }
+    }
+  },
+  {
+    "original": "Celebs\\Rajesh kawa.jpg",
+    "originalSize": "2.16 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Celebs\\Rajesh kawa-thumbnail.webp",
+        "size": 29746,
+        "reduction": "98.7%"
+      },
+      "medium": {
+        "path": "optimized\\Celebs\\Rajesh kawa-medium.webp",
+        "size": 114206,
+        "reduction": "95.0%"
+      },
+      "large": {
+        "path": "optimized\\Celebs\\Rajesh kawa-large.webp",
+        "size": 804210,
+        "reduction": "64.5%"
+      }
+    }
+  },
+  {
+    "original": "Celebs\\Yashraj mukhate.JPG",
+    "originalSize": "2.57 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Celebs\\Yashraj mukhate-thumbnail.webp",
+        "size": 32556,
+        "reduction": "98.8%"
+      },
+      "medium": {
+        "path": "optimized\\Celebs\\Yashraj mukhate-medium.webp",
+        "size": 107768,
+        "reduction": "96.0%"
+      },
+      "large": {
+        "path": "optimized\\Celebs\\Yashraj mukhate-large.webp",
+        "size": 723786,
+        "reduction": "73.1%"
+      }
+    }
+  },
+  {
+    "original": "Manoj 2-1.jpeg",
+    "originalSize": "183.24 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Manoj 2-1-thumbnail.webp",
+        "size": 46670,
+        "reduction": "75.1%"
+      },
+      "medium": {
+        "path": "optimized\\Manoj 2-1-medium.webp",
+        "size": 174378,
+        "reduction": "7.1%"
+      },
+      "large": {
+        "path": "optimized\\Manoj 2-1-large.webp",
+        "size": 254622,
+        "reduction": "-35.7%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\6D5A0094.JPG",
+    "originalSize": "1.82 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\6D5A0094-thumbnail.webp",
+        "size": 15462,
+        "reduction": "99.2%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\6D5A0094-medium.webp",
+        "size": 48144,
+        "reduction": "97.5%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\6D5A0094-large.webp",
+        "size": 183738,
+        "reduction": "90.4%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\DSC_5294.JPG",
+    "originalSize": "12.4 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\DSC_5294-thumbnail.webp",
+        "size": 23456,
         "reduction": "99.8%"
       },
       "medium": {
-        "path": "optimized\\Corporate\\Concert-medium.webp",
-        "size": 27542,
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\DSC_5294-medium.webp",
+        "size": 97784,
+        "reduction": "99.2%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\DSC_5294-large.webp",
+        "size": 538776,
+        "reduction": "95.9%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\IMG_8085.JPG",
+    "originalSize": "468.5 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\IMG_8085-thumbnail.webp",
+        "size": 15718,
+        "reduction": "96.7%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\IMG_8085-medium.webp",
+        "size": 60244,
+        "reduction": "87.4%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\IMG_8085-large.webp",
+        "size": 269486,
+        "reduction": "43.8%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\MHRA5715.JPG",
+    "originalSize": "3.19 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA5715-thumbnail.webp",
+        "size": 14824,
+        "reduction": "99.6%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA5715-medium.webp",
+        "size": 51364,
+        "reduction": "98.5%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA5715-large.webp",
+        "size": 258322,
+        "reduction": "92.3%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\MHRA6192.JPG",
+    "originalSize": "7.47 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6192-thumbnail.webp",
+        "size": 17638,
+        "reduction": "99.8%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6192-medium.webp",
+        "size": 61152,
+        "reduction": "99.2%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6192-large.webp",
+        "size": 270630,
+        "reduction": "96.5%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Concert and entertainment\\MHRA6200.JPG",
+    "originalSize": "1.36 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6200-thumbnail.webp",
+        "size": 18398,
+        "reduction": "98.7%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6200-medium.webp",
+        "size": 62476,
+        "reduction": "95.6%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Concert and entertainment\\MHRA6200-large.webp",
+        "size": 301048,
+        "reduction": "78.8%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Corporate Experiences\\CP-3.JPG",
+    "originalSize": "2.25 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\CP-3-thumbnail.webp",
+        "size": 7594,
+        "reduction": "99.7%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\CP-3-medium.webp",
+        "size": 22606,
+        "reduction": "99.0%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\CP-3-large.webp",
+        "size": 112044,
+        "reduction": "95.3%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Corporate Experiences\\MHRA3599.JPG",
+    "originalSize": "6.87 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA3599-thumbnail.webp",
+        "size": 16134,
+        "reduction": "99.8%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA3599-medium.webp",
+        "size": 50492,
         "reduction": "99.3%"
       },
       "large": {
-        "path": "optimized\\Corporate\\Concert-large.webp",
-        "size": 123336,
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA3599-large.webp",
+        "size": 209314,
         "reduction": "97.1%"
       }
     }
   },
   {
-    "original": "Corporate\\Corporate Exp.JPG",
+    "original": "Services Section Images\\Corporate Experiences\\MHRA4148.JPG",
+    "originalSize": "5.15 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA4148-thumbnail.webp",
+        "size": 12490,
+        "reduction": "99.8%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA4148-medium.webp",
+        "size": 36872,
+        "reduction": "99.3%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA4148-large.webp",
+        "size": 146390,
+        "reduction": "97.3%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Corporate Experiences\\MHRA6206.JPG",
+    "originalSize": "3.84 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA6206-thumbnail.webp",
+        "size": 22584,
+        "reduction": "99.4%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA6206-medium.webp",
+        "size": 78538,
+        "reduction": "98.1%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\MHRA6206-large.webp",
+        "size": 372502,
+        "reduction": "90.8%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Corporate Experiences\\NMG03768.JPG",
+    "originalSize": "12.56 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03768-thumbnail.webp",
+        "size": 16662,
+        "reduction": "99.9%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03768-medium.webp",
+        "size": 48280,
+        "reduction": "99.6%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03768-large.webp",
+        "size": 208320,
+        "reduction": "98.4%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Corporate Experiences\\NMG03797.JPG",
     "originalSize": "11.19 MB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Corporate\\Corporate Exp-thumbnail.webp",
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03797-thumbnail.webp",
         "size": 8302,
         "reduction": "99.9%"
       },
       "medium": {
-        "path": "optimized\\Corporate\\Corporate Exp-medium.webp",
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03797-medium.webp",
         "size": 27950,
         "reduction": "99.8%"
       },
       "large": {
-        "path": "optimized\\Corporate\\Corporate Exp-large.webp",
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG03797-large.webp",
         "size": 155566,
         "reduction": "98.7%"
       }
     }
   },
   {
-    "original": "logo.png",
-    "originalSize": "228.29 KB",
+    "original": "Services Section Images\\Corporate Experiences\\NMG05427.JPG",
+    "originalSize": "12.13 MB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\logo-thumbnail.webp",
-        "size": 10730,
-        "reduction": "95.4%"
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG05427-thumbnail.webp",
+        "size": 17416,
+        "reduction": "99.9%"
       },
       "medium": {
-        "path": "optimized\\logo-medium.webp",
-        "size": 20912,
-        "reduction": "91.1%"
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG05427-medium.webp",
+        "size": 54904,
+        "reduction": "99.6%"
       },
       "large": {
-        "path": "optimized\\logo-large.webp",
-        "size": 26068,
-        "reduction": "88.8%"
+        "path": "optimized\\Services Section Images\\Corporate Experiences\\NMG05427-large.webp",
+        "size": 227200,
+        "reduction": "98.2%"
       }
     }
   },
   {
-    "original": "Manoj Images\\Manoj 1.jpg",
-    "originalSize": "148.78 KB",
+    "original": "Services Section Images\\Public Speaking and coaching\\Public-spk1.jpg",
+    "originalSize": "1.81 MB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Manoj Images\\Manoj 1-thumbnail.webp",
-        "size": 14674,
-        "reduction": "90.4%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk1-thumbnail.webp",
+        "size": 25020,
+        "reduction": "98.7%"
       },
       "medium": {
-        "path": "optimized\\Manoj Images\\Manoj 1-medium.webp",
-        "size": 44390,
-        "reduction": "70.9%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk1-medium.webp",
+        "size": 96598,
+        "reduction": "94.9%"
       },
       "large": {
-        "path": "optimized\\Manoj Images\\Manoj 1-large.webp",
-        "size": 85462,
-        "reduction": "43.9%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk1-large.webp",
+        "size": 547112,
+        "reduction": "71.2%"
       }
     }
   },
   {
-    "original": "Manoj Images\\manoj 2.JPG",
-    "originalSize": "6.45 MB",
+    "original": "Services Section Images\\Public Speaking and coaching\\Public-spk2.jpg",
+    "originalSize": "753.21 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Manoj Images\\manoj 2-thumbnail.webp",
-        "size": 42782,
-        "reduction": "99.4%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk2-thumbnail.webp",
+        "size": 10124,
+        "reduction": "98.7%"
       },
       "medium": {
-        "path": "optimized\\Manoj Images\\manoj 2-medium.webp",
-        "size": 139032,
-        "reduction": "97.9%"
-      },
-      "large": {
-        "path": "optimized\\Manoj Images\\manoj 2-large.webp",
-        "size": 652898,
-        "reduction": "90.3%"
-      }
-    }
-  },
-  {
-    "original": "Manoj Images\\Manoj 3.JPEG",
-    "originalSize": "4.91 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Manoj Images\\Manoj 3-thumbnail.webp",
-        "size": 16204,
-        "reduction": "99.7%"
-      },
-      "medium": {
-        "path": "optimized\\Manoj Images\\Manoj 3-medium.webp",
-        "size": 53896,
-        "reduction": "99.0%"
-      },
-      "large": {
-        "path": "optimized\\Manoj Images\\Manoj 3-large.webp",
-        "size": 378760,
-        "reduction": "92.6%"
-      }
-    }
-  },
-  {
-    "original": "Manoj Images\\Manoj 4.JPG",
-    "originalSize": "7.08 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Manoj Images\\Manoj 4-thumbnail.webp",
-        "size": 42658,
-        "reduction": "99.4%"
-      },
-      "medium": {
-        "path": "optimized\\Manoj Images\\Manoj 4-medium.webp",
-        "size": 139260,
-        "reduction": "98.1%"
-      },
-      "large": {
-        "path": "optimized\\Manoj Images\\Manoj 4-large.webp",
-        "size": 596934,
-        "reduction": "92.0%"
-      }
-    }
-  },
-  {
-    "original": "Manoj Images\\Manoj 5.JPG",
-    "originalSize": "2.88 MB",
-    "variants": {
-      "thumbnail": {
-        "path": "optimized\\Manoj Images\\Manoj 5-thumbnail.webp",
-        "size": 6506,
-        "reduction": "99.8%"
-      },
-      "medium": {
-        "path": "optimized\\Manoj Images\\Manoj 5-medium.webp",
-        "size": 20382,
-        "reduction": "99.3%"
-      },
-      "large": {
-        "path": "optimized\\Manoj Images\\Manoj 5-large.webp",
-        "size": 129470,
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk2-medium.webp",
+        "size": 33416,
         "reduction": "95.7%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk2-large.webp",
+        "size": 160092,
+        "reduction": "79.2%"
       }
     }
   },
   {
-    "original": "Mpl\\MPL Hosting.JPG",
-    "originalSize": "4.52 MB",
+    "original": "Services Section Images\\Public Speaking and coaching\\Public-spk3.jpg",
+    "originalSize": "205.76 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Mpl\\MPL Hosting-thumbnail.webp",
-        "size": 15686,
-        "reduction": "99.7%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk3-thumbnail.webp",
+        "size": 19358,
+        "reduction": "90.8%"
       },
       "medium": {
-        "path": "optimized\\Mpl\\MPL Hosting-medium.webp",
-        "size": 57180,
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk3-medium.webp",
+        "size": 64060,
+        "reduction": "69.6%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk3-large.webp",
+        "size": 155982,
+        "reduction": "26.0%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Public Speaking and coaching\\Public-spk4.jpg",
+    "originalSize": "1.85 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk4-thumbnail.webp",
+        "size": 23886,
         "reduction": "98.8%"
       },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk4-medium.webp",
+        "size": 74680,
+        "reduction": "96.2%"
+      },
       "large": {
-        "path": "optimized\\Mpl\\MPL Hosting-large.webp",
-        "size": 241314,
-        "reduction": "94.9%"
+        "path": "optimized\\Services Section Images\\Public Speaking and coaching\\Public-spk4-large.webp",
+        "size": 481034,
+        "reduction": "75.2%"
       }
     }
   },
   {
-    "original": "Shadi events\\Weeding and Sangeet Night.jpg",
+    "original": "Services Section Images\\Weeding and sangeet hosting\\Shadi-1.jpg",
+    "originalSize": "906.58 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-1-thumbnail.webp",
+        "size": 22352,
+        "reduction": "97.6%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-1-medium.webp",
+        "size": 95598,
+        "reduction": "89.7%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-1-large.webp",
+        "size": 480936,
+        "reduction": "48.2%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Weeding and sangeet hosting\\shadi-2.jpg",
+    "originalSize": "287.8 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-2-thumbnail.webp",
+        "size": 26452,
+        "reduction": "91.0%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-2-medium.webp",
+        "size": 100062,
+        "reduction": "66.0%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-2-large.webp",
+        "size": 261116,
+        "reduction": "11.4%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Weeding and sangeet hosting\\Shadi-3.JPG",
+    "originalSize": "687.17 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-3-thumbnail.webp",
+        "size": 9962,
+        "reduction": "98.6%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-3-medium.webp",
+        "size": 36024,
+        "reduction": "94.9%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-3-large.webp",
+        "size": 178554,
+        "reduction": "74.6%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Weeding and sangeet hosting\\Shadi-4.jpg",
+    "originalSize": "986.9 KB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-4-thumbnail.webp",
+        "size": 23154,
+        "reduction": "97.7%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-4-medium.webp",
+        "size": 86210,
+        "reduction": "91.5%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\Shadi-4-large.webp",
+        "size": 384338,
+        "reduction": "62.0%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Weeding and sangeet hosting\\shadi-5.jpg",
+    "originalSize": "1.05 MB",
+    "variants": {
+      "thumbnail": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-5-thumbnail.webp",
+        "size": 17842,
+        "reduction": "98.4%"
+      },
+      "medium": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-5-medium.webp",
+        "size": 65810,
+        "reduction": "94.0%"
+      },
+      "large": {
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-5-large.webp",
+        "size": 360184,
+        "reduction": "67.2%"
+      }
+    }
+  },
+  {
+    "original": "Services Section Images\\Weeding and sangeet hosting\\shadi-main.jpg",
     "originalSize": "219.92 KB",
     "variants": {
       "thumbnail": {
-        "path": "optimized\\Shadi events\\Weeding and Sangeet Night-thumbnail.webp",
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-main-thumbnail.webp",
         "size": 26478,
         "reduction": "88.2%"
       },
       "medium": {
-        "path": "optimized\\Shadi events\\Weeding and Sangeet Night-medium.webp",
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-main-medium.webp",
         "size": 97086,
         "reduction": "56.9%"
       },
       "large": {
-        "path": "optimized\\Shadi events\\Weeding and Sangeet Night-large.webp",
+        "path": "optimized\\Services Section Images\\Weeding and sangeet hosting\\shadi-main-large.webp",
         "size": 234902,
         "reduction": "-4.3%"
       }

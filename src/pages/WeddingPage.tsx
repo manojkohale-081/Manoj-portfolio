@@ -9,9 +9,12 @@ const WeddingPage = () => {
             heroImage="/optimized/Shadi events/Weeding and Sangeet Night-large.webp"
             color="from-pink-500/20 to-rose-500/10"
             galleryImages={[
-                "/optimized/Shadi events/Weeding and Sangeet Night-medium.webp",
-                "/optimized/Shadi events/SAMFKJENG488354-medium.webp",
                 "/optimized/Shadi events/SAMFKJENG85349-medium.webp",
+                "/optimized/Services Section Images/Weeding and sangeet hosting/Shadi-1-medium.webp",
+                "/optimized/Services Section Images/Weeding and sangeet hosting/shadi-2-medium.webp",
+                "/optimized/Services Section Images/Weeding and sangeet hosting/Shadi-3-medium.webp",
+                "/optimized/Services Section Images/Weeding and sangeet hosting/Shadi-4-medium.webp",
+                "/optimized/Services Section Images/Weeding and sangeet hosting/shadi-5-medium.webp",
             ]}
             testimonials={[
                 {

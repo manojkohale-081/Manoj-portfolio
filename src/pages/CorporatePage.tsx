@@ -11,7 +11,7 @@ const CorporatePage = () => {
             galleryImages={[
                 "/optimized/Corporate/MHRA3599-medium.webp",
                 "/optimized/Corporate/MHRA4148-medium.webp",
-                "/optimized/Corporate/MHRA6206-medium.webp",
+                "/optimized/Services Section Images/Corporate Experiences/CP-3-medium.webp",
                 "/optimized/Corporate/NMG03768-medium.webp",
                 "/optimized/Corporate/NMG03797-medium.webp",
                 "/optimized/Corporate/NMG05427-medium.webp",

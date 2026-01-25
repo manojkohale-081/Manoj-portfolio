@@ -6,9 +6,13 @@ const PublicSpeakingPage = () => {
             title="Public Speaking & Coaching"
             tagline="Training future anchors through @talktermanoj & @speakoskills"
             description="Emcee Manoj is not just a performer - he's a mentor. Through his platforms @talktermanoj and @speakoskills, he trains aspiring anchors and public speakers to find their voice, own the stage, and deliver with confidence. From workshops to personalized coaching, he shares his expertise to help others become effective communicators."
-            heroImage="/optimized/Manoj Images/Manoj 1-large.webp"
+            heroImage="/optimized/Services Section Images/Public Speaking and coaching/Public-spk2-large.webp"
             color="from-orange-500/20 to-amber-500/10"
-            galleryImages={[]}
+            galleryImages={[
+                "/optimized/Services Section Images/Public Speaking and coaching/Public-spk1-medium.webp",
+                "/optimized/Services Section Images/Public Speaking and coaching/Public-spk3-medium.webp",
+                "/optimized/Services Section Images/Public Speaking and coaching/Public-spk4-medium.webp"
+            ]}
             testimonials={[
                 {
                     text: "Manoj's coaching transformed my stage presence. His techniques are practical and easy to implement!",
