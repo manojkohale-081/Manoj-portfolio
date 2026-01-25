@@ -185,7 +185,7 @@ function FAQItem({ q, a, index }: { q: string; a: string; index: number }) {
                 </span>
             </button>
             <div
-                className={`grid transition-[grid-template-rows] duration-300 ease-[cubic-bezier(.4,0,.2,1)] ${open ? "mt-4 grid-rows-[1fr]" : "grid-rows-[0fr]"
+                className={`grid transition-[grid-template-rows] duration-300 ease-in-out ${open ? "mt-4 grid-rows-[1fr]" : "grid-rows-[0fr]"
                     }`}
             >
                 <div className="min-h-0 overflow-hidden">
