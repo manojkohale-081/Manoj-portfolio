@@ -57,7 +57,7 @@ const Header = () => {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled
+      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled || isMobileMenuOpen
         ? "bg-background/95 backdrop-blur-md shadow-lg"
         : "bg-transparent"
         }`}
@@ -111,7 +111,7 @@ const Header = () => {
 
         {/* Mobile Navigation */}
         {isMobileMenuOpen && (
-          <nav className="md:hidden py-4 border-t border-border animate-fade-in-up">
+          <nav className="md:hidden py-4 border-t border-border animate-fade-in-up bg-background">
             <div className="flex flex-col gap-4">
               {navLinks.map((link) => (
                 <a
