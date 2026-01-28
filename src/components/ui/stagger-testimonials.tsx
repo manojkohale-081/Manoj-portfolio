@@ -9,14 +9,14 @@ const SQRT_5000 = Math.sqrt(5000);
 const testimonials = [
     {
         tempId: 0,
-        testimonial: "Manoj recently hosted our Destination Wedding & he's just awesome! Literally everybody loved his Presence at our Functions!! The Kind of command he has on his art is truely commendable!! Matlb maza hi aagya!!",
-        by: "Aditya Agrawal, Destination Wedding Client",
+        testimonial: "Manoj hosted our Destination Wedding & he's just awesome! Everybody loved his Presence at our Functions!! The command he has on his art is truly commendable!!",
+        by: "Aditya Agrawal",
         imgSrc: "https://ui-avatars.com/api/?name=Aditya+Agrawal&background=D4AF37&color=000&size=150",
         reviewUrl: "https://maps.app.goo.gl/VBNqhy1iRcFcVn7y7"
     },
     {
         tempId: 1,
-        testimonial: "Your anchoring was truly heartfelt and captivating. The way you connected with the audience, spoke with warmth, and carried the entire event with grace was beautiful to watch. You didn't just host the show, you touched hearts.",
+        testimonial: "Your anchoring was truly heartfelt and captivating. The way you connected with the audience, spoke with warmth, and carried the entire event with grace was beautiful to watch.",
         by: "Gaurav Mishra, Event Client",
         imgSrc: "https://ui-avatars.com/api/?name=Gaurav+Mishra&background=FF6B6B&color=fff&size=150",
         reviewUrl: "https://maps.app.goo.gl/oF2e8mNbywMsPHsu6"
@@ -54,14 +54,14 @@ const testimonials = [
         testimonial: "Professional hosting for every occasion. From boardrooms to baraats, Emcee Manoj brings the energy!",
         by: "Corporate Event Organizer",
         imgSrc: "https://ui-avatars.com/api/?name=Event+Pro&background=6C5CE7&color=fff&size=150",
-        reviewUrl: ""
+        reviewUrl: "https://maps.app.goo.gl/VBNqhy1iRcFcVn7y7"
     },
     {
         tempId: 7,
         testimonial: "Zero dull seconds with Emcee Manoj on stage. The crowd was engaged from start to finish!",
         by: "Wedding Planner, Pune",
         imgSrc: "https://ui-avatars.com/api/?name=Wedding+Pro&background=FD79A8&color=fff&size=150",
-        reviewUrl: ""
+        reviewUrl: "https://maps.app.goo.gl/VBNqhy1iRcFcVn7y7"
     }
 ];
 
